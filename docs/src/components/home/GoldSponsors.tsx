@@ -63,6 +63,13 @@ const GOLDs = [
     description: 'Instagram followers, likes, views, and comments.',
     href: 'https://goread.io/?utm_source=MUI&utm_medium=referral&utm_content=homepage',
   },
+  {
+    src: 'https://images.opencollective.com/viralyft/eb6337d/logo/40.png',
+    srcSet: 'https://images.opencollective.com/viralyft/eb6337d/logo/120.png 3x',
+    name: 'Viralyft',
+    description: 'Buy YouTube Views, Likes and Comments.',
+    href: 'https://viralyft.com/buy-youtube-views',
+  },
 ];
 
 export default function GoldSponsors() {
